@@ -1,0 +1,6 @@
+If not already, please install below gems
+
+gem install cucumber
+gem install selenium-webdriver
+gem install capybara
+gem install rspecs
